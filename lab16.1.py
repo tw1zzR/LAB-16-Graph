@@ -1,4 +1,4 @@
-import matplotlib.pyplot as mp; import array as arr; import math
+import matplotlib.pyplot as mp; import math
 
 x=[i for i in range(-3,6)]
 y=[]
